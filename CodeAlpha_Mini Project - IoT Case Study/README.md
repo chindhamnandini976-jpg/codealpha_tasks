@@ -6,7 +6,7 @@ This mini project explores the role of the Internet of Things (IoT) in developin
 
 ## Objective
 
-To study the applications, benefits, challenges, and future scope of IoT technologies in smart city development.
+To study the applications, benefits, challenges, and future scope of IoT technologies in smart city development
 
 ## Topics Covered
 
